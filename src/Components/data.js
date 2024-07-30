@@ -151,7 +151,7 @@ const list =[
 },
 {
     id:22,
-    name:"सदाशिव चीज ग्रिल",
+    name:"Sadashiv Cheese Grill",
     price:100,
     img:foodImage,
     amount:1
